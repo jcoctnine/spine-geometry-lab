@@ -1,0 +1,17 @@
+.DS_Store
+._*
+Thumbs.db
+.env
+.env.*
+!.env.example
+.openai/
+.codex/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+*.tar.gz
+*.zip
+site-qa/
+test-results/
+playwright-report/
